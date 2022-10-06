@@ -1,0 +1,226 @@
+﻿LOC,LOCSTATE,LOCCOUNTRY
+01,ALABAMA,United States
+02,ALASKA,United States
+04,ARIZONA,United States
+05,ARKANSAS,United States
+06,CALIFORNIA,United States
+08,COLORADO,United States
+09,CONNECTICUT,United States
+10,DELAWARE,United States
+11,DISTRICT OF COLUMBIA,United States
+12,FLORIDA,United States
+13,GEORGIA,United States
+15,HAWAII,United States
+16,IDAHO,United States
+17,ILLINOIS,United States
+18,INDIANA,United States
+19,IOWA,United States
+20,KANSAS,United States
+21,KENTUCKY,United States
+22,LOUISIANA,United States
+23,MAINE,United States
+24,MARYLAND,United States
+25,MASSACHUSETTS,United States
+26,MICHIGAN,United States
+27,MINNESOTA,United States
+28,MISSISSIPPI,United States
+29,MISSOURI,United States
+30,MONTANA,United States
+31,NEBRASKA,United States
+32,NEVADA,United States
+33,NEW HAMPSHIRE,United States
+34,NEW JERSEY,United States
+35,NEW MEXICO,United States
+36,NEW YORK,United States
+37,NORTH CAROLINA,United States
+38,NORTH DAKOTA,United States
+39,OHIO,United States
+40,OKLAHOMA,United States
+41,OREGON,United States
+42,PENNSYLVANIA,United States
+44,RHODE ISLAND,United States
+45,SOUTH CAROLINA,United States
+46,SOUTH DAKOTA,United States
+47,TENNESSEE,United States
+48,TEXAS,United States
+49,UTAH,United States
+50,VERMONT,United States
+51,VIRGINIA,United States
+53,WASHINGTON,United States
+54,WEST VIRGINIA,United States
+55,WISCONSIN,United States
+56,WYOMING,United States
+US,SUPPRESSED (SEE DATA DEFINITIONS),SUPPRESSED
+AQ,U.S. Territories,AMERICAN SAMOA
+CQ,U.S. Territories,NORTHERN MARIANA ISLANDS
+GQ,U.S. Territories,GUAM
+MQ,U.S. Territories,MIDWAY ISLANDS
+RQ,U.S. Territories,PUERTO RICO
+VQ,U.S. Territories,VIRGIN ISLANDS
+AA,Foreign Countries,ARUBA
+AE,Foreign Countries,UNITED ARAB EMIRATES
+AF,Foreign Countries,AFGHANISTAN
+AG,Foreign Countries,ALGERIA
+AJ,Foreign Countries,AZERBAIJAN
+AL,Foreign Countries,ALBANIA
+AM,Foreign Countries,ARMENIA
+AO,Foreign Countries,ANGOLA
+AR,Foreign Countries,ARGENTINA
+AS,Foreign Countries,AUSTRALIA
+AU,Foreign Countries,AUSTRIA
+AY,Foreign Countries,ANTARCTICA
+BA,Foreign Countries,BAHRAIN
+BB,Foreign Countries,BARBADOS
+BC,Foreign Countries,BOTSWANA
+BD,Foreign Countries,BERMUDA
+BE,Foreign Countries,BELGIUM
+BF,Foreign Countries,"BAHAMAS, THE"
+BG,Foreign Countries,BANGLADESH
+BH,Foreign Countries,BELIZE
+BK,Foreign Countries,BOSNIA AND HERZEGOVINA
+BM,Foreign Countries,BURMA
+BN,Foreign Countries,BENIN
+BR,Foreign Countries,BRAZIL
+BU,Foreign Countries,BULGARIA
+BY,Foreign Countries,BURUNDI
+CA,Foreign Countries,CANADA
+CB,Foreign Countries,CAMBODIA
+CD,Foreign Countries,CHAD
+CE,Foreign Countries,SRI LANKA
+CF,Foreign Countries,CONGO
+CG,Foreign Countries,"CONGO, DEMOCRATIC REPUBLIC OF THE"
+CH,Foreign Countries,CHINA
+CI,Foreign Countries,CHILE
+CM,Foreign Countries,CAMEROON
+CN,Foreign Countries,COMOROS
+CO,Foreign Countries,COLOMBIA
+CS,Foreign Countries,COSTA RICA
+CU,Foreign Countries,CUBA
+CV,Foreign Countries,CAPE VERDE
+CY,Foreign Countries,CYPRUS
+DA,Foreign Countries,DENMARK
+DJ,Foreign Countries,DJIBOUTI
+DR,Foreign Countries,DOMINICAN REPUBLIC
+EC,Foreign Countries,ECUADOR
+EG,Foreign Countries,EGYPT
+EI,Foreign Countries,IRELAND
+EN,Foreign Countries,ESTONIA
+ES,Foreign Countries,EL SALVADOR
+ET,Foreign Countries,ETHIOPIA
+EZ,Foreign Countries,CZECH REPUBLIC
+FI,Foreign Countries,FINLAND
+FJ,Foreign Countries,FIJI
+FM,Foreign Countries,"MICRONESIA, FEDERATED STATES OF"
+FR,Foreign Countries,FRANCE
+GA,Foreign Countries,"GAMBIA, THE"
+GB,Foreign Countries,GABON
+GG,Foreign Countries,REPUBLIC OF GEORGIA
+GH,Foreign Countries,GHANA
+GM,Foreign Countries,GERMANY
+GR,Foreign Countries,GREECE
+GT,Foreign Countries,GUATEMALA
+GV,Foreign Countries,GUINEA
+GY,Foreign Countries,GUYANA
+HA,Foreign Countries,HAITI
+HK,Foreign Countries,HONG KONG
+HO,Foreign Countries,HONDURAS
+HR,Foreign Countries,CROATIA
+HU,Foreign Countries,HUNGARY
+IC,Foreign Countries,ICELAND
+ID,Foreign Countries,INDONESIA
+IN,Foreign Countries,INDIA
+IO,Foreign Countries,BRITISH INDIAN OCEAN TERRITORY
+IS,Foreign Countries,ISRAEL
+IT,Foreign Countries,ITALY
+IV,Foreign Countries,COTE D'IVOIRE
+IZ,Foreign Countries,IRAQ
+JA,Foreign Countries,JAPAN
+JM,Foreign Countries,JAMAICA
+JO,Foreign Countries,JORDAN
+KE,Foreign Countries,KENYA
+KG,Foreign Countries,KYRGYZSTAN
+KS,Foreign Countries,"KOREA, REPUBLIC OF"
+KU,Foreign Countries,KUWAIT
+KV,Foreign Countries,KOSOVO
+KZ,Foreign Countries,KAZAKHSTAN
+LA,Foreign Countries,LAOS
+LE,Foreign Countries,LEBANON
+LG,Foreign Countries,LATVIA
+LH,Foreign Countries,LITHUANIA
+LI,Foreign Countries,LIBERIA
+LO,Foreign Countries,SLOVAKIA
+LT,Foreign Countries,LESOTHO
+LU,Foreign Countries,LUXEMBOURG
+LY,Foreign Countries,LIBYA
+MA,Foreign Countries,MADAGASCAR
+MD,Foreign Countries,MOLDOVA
+MG,Foreign Countries,MONGOLIA
+MI,Foreign Countries,MALAWI
+MJ,Foreign Countries,MONTENEGRO
+MK,Foreign Countries,MACEDONIA
+ML,Foreign Countries,MALI
+MO,Foreign Countries,MOROCCO
+MT,Foreign Countries,MALTA
+MU,Foreign Countries,OMAN
+MX,Foreign Countries,MEXICO
+MY,Foreign Countries,MALAYSIA
+MZ,Foreign Countries,MOZAMBIQUE
+NG,Foreign Countries,NIGER
+NH,Foreign Countries,VANUATU
+NI,Foreign Countries,NIGERIA
+NL,Foreign Countries,NETHERLANDS
+NO,Foreign Countries,NORWAY
+NP,Foreign Countries,NEPAL
+NT,Foreign Countries,NETHERLANDS ANTILLES
+NU,Foreign Countries,NICARAGUA
+NZ,Foreign Countries,NEW ZEALAND
+PA,Foreign Countries,PARAGUAY
+PE,Foreign Countries,PERU
+PK,Foreign Countries,PAKISTAN
+PL,Foreign Countries,POLAND
+PM,Foreign Countries,PANAMA
+PO,Foreign Countries,PORTUGAL
+PP,Foreign Countries,PAPUA NEW GUINEA
+QA,Foreign Countries,QATAR
+RI,Foreign Countries,SERBIA
+RM,Foreign Countries,MARSHALL ISLANDS
+RO,Foreign Countries,ROMANIA
+RP,Foreign Countries,PHILIPPINES
+RS,Foreign Countries,RUSSIA
+RW,Foreign Countries,RWANDA
+SA,Foreign Countries,SAUDI ARABIA
+SF,Foreign Countries,SOUTH AFRICA
+SG,Foreign Countries,SENEGAL
+SI,Foreign Countries,SLOVENIA
+SL,Foreign Countries,SIERRA LEONE
+SN,Foreign Countries,SINGAPORE
+SP,Foreign Countries,SPAIN
+ST,Foreign Countries,SAINT LUCIA
+SU,Foreign Countries,SUDAN
+SW,Foreign Countries,SWEDEN
+SZ,Foreign Countries,SWITZERLAND
+TD,Foreign Countries,TRINIDAD AND TOBAGO
+TH,Foreign Countries,THAILAND
+TI,Foreign Countries,TAJIKISTAN
+TN,Foreign Countries,TONGA
+TO,Foreign Countries,TOGO
+TP,Foreign Countries,SAO TOME AND PRINCIPE
+TS,Foreign Countries,TUNISIA
+TT,Foreign Countries,TIMOR-LESTE
+TU,Foreign Countries,TURKEY
+TW,Foreign Countries,TAIWAN
+TX,Foreign Countries,TURKMENISTAN
+TZ,Foreign Countries,TANZANIA
+UG,Foreign Countries,UGANDA
+UK,Foreign Countries,UNITED KINGDOM
+UP,Foreign Countries,UKRAINE
+UV,Foreign Countries,BURKINA FASO
+UY,Foreign Countries,URUGUAY
+UZ,Foreign Countries,UZBEKISTAN
+VM,Foreign Countries,VIETNAM
+WA,Foreign Countries,NAMIBIA
+WS,Foreign Countries,SAMOA
+WZ,Foreign Countries,SWAZILAND
+ZA,Foreign Countries,ZAMBIA
+ZI,Foreign Countries,ZIMBABWE
+**,Unspecified,UNSPECIFIED

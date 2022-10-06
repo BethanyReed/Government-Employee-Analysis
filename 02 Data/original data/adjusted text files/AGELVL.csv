@@ -1,0 +1,13 @@
+﻿AGELVL,AGELVLT,AGELVLCODE
+A,Less than 20,1
+B,20-24,2
+C,25-29,3
+D,30-34,4
+E,35-39,5
+F,40-44,6
+G,45-49,7
+H,50-54,8
+I,55-59,9
+J,60-64,10
+K,65 or more,11
+Z,Unspecified,12
